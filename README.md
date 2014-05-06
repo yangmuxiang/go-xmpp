@@ -3,7 +3,7 @@ go-xmpp
 
 XMPP server written in go-lang.
 
-Protocol supported:
+The last objective is to support the bellow protocols.
 
 RFC 6120
 RFC 6121
